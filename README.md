@@ -10,3 +10,10 @@ This repo is dedicated to the pipeline design and operation of ax.dev for multio
 Fitted response surface in background of a scalarized objective (multipiple objectives combined with a weight). Priors are black circles, with the suggested next batch of n samples in red X symbol. 
 
 ![top view](Figures/demo.png)
+
+
+
+### Demo of qNegIntegratedPosteriorVariance + qNoisyExpectedImprovement on a single objective optimization in a 1D parameter space
+
+
+![top view](Figures/demo2.png)
