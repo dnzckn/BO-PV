@@ -13,7 +13,12 @@ Fitted response surface in background of a scalarized objective (multipiple obje
 
 
 
-### Demo of qNegIntegratedPosteriorVariance + qNoisyExpectedImprovement on a single objective optimization in a 1D parameter space
+### Demo of qNegIntegratedPosteriorVariance + qNoisyExpectedImprovement (50:50) on a single objective optimization in a 1D parameter space
 
 
-![top view](Figures/demo2.png)
+![top view](Figures/demo_ensemble_qNIPV_qNEI.png)
+
+
+### Demo of qUCB with Beta = 0.5 on a single on a single objective optimization in a 1D parameter space
+
+![top view](Figures/demo_qUCB_0.5b.png)
